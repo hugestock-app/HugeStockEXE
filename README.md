@@ -28,8 +28,7 @@ Ideal para **confecções, indústrias e centros de distribuição**, o sistema 
 
 ➡️ **[Baixe a Demo Oficial (30 dias) AQUI](https://github.com/hugestock-app/hugestock-app/releases/latest/download/HugeStock_EXE_Demo_v1.0.0.exe)**  
 📁 **Arquivo:** `HugeStock_EXE_Demo_v1.0.0.exe`  
-🔐 **Senha do ZIP (caso use antivírus):** `hugestock`  
-🧾 **Checksum SHA-256:** `ed4d28816fbbb67984d434b6cee52520ab9a97ba4bd830321352ea7feebb88ff`
+  
 
 *A Demo funciona por 30 dias e inclui todos os módulos principais.*
 
